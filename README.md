@@ -1,2 +1,2 @@
 # Elizabeth_Student_Management_System
-a project for my coding class.
+A project for my coding class with me friend.
